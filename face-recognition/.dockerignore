@@ -1,0 +1,6 @@
+*/face_model
+src/backend/db
+src/backend/.venv
+src/backend/
+*__pycache__
+src/frontend/node_modules
